@@ -1,0 +1,99 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="rgb(244,247,251)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="44" width="600" height="56">
+      <content textType="title" fontSize="36" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Competition Analysis</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="96" width="700" height="30">
+      <content textType="body" fontSize="16" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>Three competitor websites, assessed with the Web Design Best Practices Checklist</p>
+      </content>
+    </shape>
+
+    <table topLeftX="80" topLeftY="140" width="800" height="350">
+      <colgroup>
+        <col width="200"/>
+        <col width="300"/>
+        <col width="300"/>
+      </colgroup>
+      <tr height="30">
+        <td>
+          <fill><fillColor color="rgba(9,51,98,1)"/></fill>
+          <content textType="body" fontSize="12" bold="true" color="rgba(255,255,255,1)" textAlign="center"><p>Competitor</p></content>
+        </td>
+        <td>
+          <fill><fillColor color="rgba(9,51,98,1)"/></fill>
+          <content textType="body" fontSize="12" bold="true" color="rgba(255,255,255,1)" textAlign="center"><p>Two Strengths</p></content>
+        </td>
+        <td>
+          <fill><fillColor color="rgba(9,51,98,1)"/></fill>
+          <content textType="body" fontSize="12" bold="true" color="rgba(255,255,255,1)" textAlign="center"><p>Two Weaknesses</p></content>
+        </td>
+      </tr>
+      <tr height="106">
+        <td>
+          <content textType="body" fontSize="11" bold="true" color="rgba(9,51,98,1)" textAlign="left"><p>FranklinCovey</p></content>
+        </td>
+        <td>
+          <content textType="body" fontSize="10" color="rgba(51,65,92,1)" textAlign="left" lineSpacing="multiple:1.25">
+            <p>Clear, consistent navigation</p>
+            <p>Consistent branding and hierarchy</p>
+          </content>
+        </td>
+        <td>
+          <content textType="body" fontSize="10" color="rgba(51,65,92,1)" textAlign="left" lineSpacing="multiple:1.25">
+            <p>Content-dense homepage</p>
+            <p>Heavy media slows loading</p>
+          </content>
+        </td>
+      </tr>
+      <tr height="106">
+        <td>
+          <content textType="body" fontSize="11" bold="true" color="rgba(9,51,98,1)" textAlign="left"><p>Dale Carnegie</p></content>
+        </td>
+        <td>
+          <content textType="body" fontSize="10" color="rgba(51,65,92,1)" textAlign="left" lineSpacing="multiple:1.25">
+            <p>Clear value proposition and CTA</p>
+            <p>Localised regional content</p>
+          </content>
+        </td>
+        <td>
+          <content textType="body" fontSize="10" color="rgba(51,65,92,1)" textAlign="left" lineSpacing="multiple:1.25">
+            <p>Complex dropdown navigation</p>
+            <p>Text-heavy pages reduce scanning</p>
+          </content>
+        </td>
+      </tr>
+      <tr height="106">
+        <td>
+          <content textType="body" fontSize="11" bold="true" color="rgba(9,51,98,1)" textAlign="left"><p>Gallup</p></content>
+        </td>
+        <td>
+          <content textType="body" fontSize="10" color="rgba(51,65,92,1)" textAlign="left" lineSpacing="multiple:1.25">
+            <p>Data-driven content builds trust</p>
+            <p>Clear typography and white space</p>
+          </content>
+        </td>
+        <td>
+          <content textType="body" fontSize="10" color="rgba(51,65,92,1)" textAlign="left" lineSpacing="multiple:1.25">
+            <p>Vast site with dense pages</p>
+            <p>Services hard to find</p>
+          </content>
+        </td>
+      </tr>
+    </table>
+  </data>
+  <note>
+    <content textType="body">
+      <p>We analysed three competitors in the consulting and training space: FranklinCovey, Dale Carnegie and Gallup.</p>
+      <p>For each site we noted two strengths and two weaknesses using the Web Design Best Practices Checklist.</p>
+      <p>Common weaknesses include dense pages and complex navigation. Our design avoids these problems with a clean layout and clear calls-to-action.</p>
+    </content>
+  </note>
+</slide>

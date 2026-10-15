@@ -1,0 +1,84 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="rgb(244,247,251)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="44" width="600" height="56">
+      <content textType="title" fontSize="36" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Page Layout</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="96" width="700" height="30">
+      <content textType="body" fontSize="16" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>Jello layout — fixed-width content, centered with fluid side margins</p>
+      </content>
+    </shape>
+
+    <shape type="rect" topLeftX="80" topLeftY="150" width="420" height="44">
+      <fill><fillColor color="rgb(9,51,98)"/></fill>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="162" width="420" height="22">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(255,255,255,1)" textAlign="center" wrap="false">
+        <p>Header (full width)</p>
+      </content>
+    </shape>
+
+    <shape type="rect" topLeftX="150" topLeftY="214" width="280" height="150">
+      <fill><fillColor color="rgb(255,255,255)"/></fill>
+      <border color="rgba(33,108,231,1)" width="2"/>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="258" width="280" height="44">
+      <content textType="body" fontSize="13" fontFamily="Inter" color="rgba(9,51,98,1)" textAlign="center" wrap="true">
+        <p>Content</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="300" width="280" height="40">
+      <content textType="body" fontSize="11" fontFamily="Inter" color="rgba(120,135,160,1)" textAlign="center" wrap="true">
+        <p>Fixed max width, centered</p>
+      </content>
+    </shape>
+
+    <shape type="rect" topLeftX="80" topLeftY="214" width="50" height="150">
+      <fill><fillColor color="rgba(224,231,240,1)"/></fill>
+    </shape>
+    <shape type="rect" topLeftX="450" topLeftY="214" width="50" height="150">
+      <fill><fillColor color="rgba(224,231,240,1)"/></fill>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="374" width="50" height="22">
+      <content textType="body" fontSize="10" fontFamily="Inter" color="rgba(120,135,160,1)" textAlign="center" wrap="false">
+        <p>margin</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="450" topLeftY="374" width="50" height="22">
+      <content textType="body" fontSize="10" fontFamily="Inter" color="rgba(120,135,160,1)" textAlign="center" wrap="false">
+        <p>margin</p>
+      </content>
+    </shape>
+
+    <line startX="560" startY="150" endX="560" endY="430">
+      <border color="rgba(224,231,240,1)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="600" topLeftY="152" width="300" height="34">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Why Jello?</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="600" topLeftY="194" width="300" height="180">
+      <content textType="body" fontSize="13" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.5">
+        <p>Content keeps a comfortable reading width on large screens.</p>
+        <p>Side margins grow with the viewport, so the page never looks stretched.</p>
+        <p>Matches the desktop-first design of our sample page.</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>For the page layout we chose the jello layout, as required by the assignment.</p>
+      <p>In a jello layout, the content area has a fixed maximum width and is centered, while the margins on both sides expand and contract with the screen size.</p>
+      <p>We implemented this with a maximum width of 900 pixels and margin auto centering, which keeps text readable and consistent across screen sizes.</p>
+    </content>
+  </note>
+</slide>

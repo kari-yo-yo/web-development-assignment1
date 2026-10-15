@@ -1,0 +1,34 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="linear-gradient(135deg,rgba(7,31,61,1) 0%,rgba(9,51,98,1) 100%)"/>
+    </fill>
+  </style>
+  <data>
+    <img src="B2pWbSJe2oieRwxcD4ycD4cynNE" topLeftX="500" topLeftY="70" width="440" height="364"/>
+    <img src="KBF5bWoRjoEqz6xp0jVcR4dlnKb" topLeftX="80" topLeftY="55" width="53" height="60"/>
+    <shape type="text" topLeftX="80" topLeftY="150" width="400" height="90">
+      <content textType="title" fontSize="62" fontFamily="Montserrat" bold="true" color="rgba(255,255,255,1)" wrap="false">
+        <p>InnoV8</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="238" width="430" height="46">
+      <content textType="headline" fontSize="26" fontFamily="Montserrat" color="rgba(32,224,224,1)" wrap="false">
+        <p>Website Design Proposal</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="300" width="430" height="66">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(226,232,240,1)" lineSpacing="multiple:1.4">
+        <p>Prepared by Group 10 | BlueFish Media Design</p>
+        <p>Web Design Assignment 1 (TSNI 2022)</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>Good morning everyone. We are Group 10 from BlueFish Media Design, and today we present our website design proposal for InnoV8.</p>
+      <p>InnoV8 is a consultancy that provides motivational strategies and personal development services to corporations and charities.</p>
+      <p>Over the next slides we will walk through the client expectations, target audience, competitor analysis and our proposed design.</p>
+    </content>
+  </note>
+</slide>

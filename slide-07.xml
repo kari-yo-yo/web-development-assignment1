@@ -1,0 +1,103 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="rgb(244,247,251)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="44" width="600" height="56">
+      <content textType="title" fontSize="36" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Color Scheme</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="96" width="760" height="30">
+      <content textType="body" fontSize="16" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>Derived from the InnoV8 brand and logo</p>
+      </content>
+    </shape>
+
+    <shape type="rect" topLeftX="80" topLeftY="170" width="150" height="110" presetHandlers="10">
+      <fill><fillColor color="rgb(9,51,98)"/></fill>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="292" width="150" height="26">
+      <content textType="body" fontSize="13" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" textAlign="center" wrap="false">
+        <p>Primary Navy</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="318" width="150" height="24">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" textAlign="center" wrap="false">
+        <p>#093362</p>
+      </content>
+    </shape>
+
+    <shape type="rect" topLeftX="250" topLeftY="170" width="150" height="110" presetHandlers="10">
+      <fill><fillColor color="rgb(33,108,231)"/></fill>
+    </shape>
+    <shape type="text" topLeftX="250" topLeftY="292" width="150" height="26">
+      <content textType="body" fontSize="13" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" textAlign="center" wrap="false">
+        <p>Accent Blue</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="250" topLeftY="318" width="150" height="24">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" textAlign="center" wrap="false">
+        <p>#216CE7</p>
+      </content>
+    </shape>
+
+    <shape type="rect" topLeftX="420" topLeftY="170" width="150" height="110" presetHandlers="10">
+      <fill><fillColor color="rgb(32,224,224)"/></fill>
+    </shape>
+    <shape type="text" topLeftX="420" topLeftY="292" width="150" height="26">
+      <content textType="body" fontSize="13" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" textAlign="center" wrap="false">
+        <p>Highlight Teal</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="420" topLeftY="318" width="150" height="24">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" textAlign="center" wrap="false">
+        <p>#20E0E0</p>
+      </content>
+    </shape>
+
+    <shape type="rect" topLeftX="590" topLeftY="170" width="150" height="110" presetHandlers="10">
+      <fill><fillColor color="rgb(244,247,251)"/></fill>
+      <border color="rgba(224,231,240,1)" width="2"/>
+    </shape>
+    <shape type="text" topLeftX="590" topLeftY="292" width="150" height="26">
+      <content textType="body" fontSize="13" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" textAlign="center" wrap="false">
+        <p>Light Background</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="590" topLeftY="318" width="150" height="24">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" textAlign="center" wrap="false">
+        <p>#F4F7FB</p>
+      </content>
+    </shape>
+
+    <shape type="rect" topLeftX="760" topLeftY="170" width="150" height="110" presetHandlers="10">
+      <fill><fillColor color="rgb(51,65,92)"/></fill>
+    </shape>
+    <shape type="text" topLeftX="760" topLeftY="292" width="150" height="26">
+      <content textType="body" fontSize="13" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" textAlign="center" wrap="false">
+        <p>Body Text</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="760" topLeftY="318" width="150" height="24">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" textAlign="center" wrap="false">
+        <p>#33415C</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="80" topLeftY="386" width="800" height="90">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.5">
+        <p>Deep navy conveys authority and professionalism, accent blue powers the calls-to-action, and teal adds a fresh, energetic highlight that reflects growth.</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>Our color scheme is derived directly from the InnoV8 brand and logo.</p>
+      <p>Deep navy is the primary color, used for the header and main banner. Accent blue is reserved for call-to-action buttons, and the bright teal highlights numbers and key accents.</p>
+      <p>A light background and dark gray body text keep the pages readable, which matches the professional tone expected by corporate and charity clients.</p>
+    </content>
+  </note>
+</slide>

@@ -1,0 +1,116 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="rgb(244,247,251)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="44" width="500" height="56">
+      <content textType="title" fontSize="36" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Agenda</p>
+      </content>
+    </shape>
+    <line startX="80" startY="108" endX="880" endY="108">
+      <border color="rgba(33,108,231,1)" width="2"/>
+    </line>
+
+    <shape type="text" topLeftX="80" topLeftY="128" width="60" height="40">
+      <content textType="body" fontSize="28" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="124" width="460" height="34">
+      <content textType="body" fontSize="22" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Client Overview</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="156" width="520" height="24">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>Understanding the InnoV8 business and its consulting services</p>
+      </content>
+    </shape>
+    <line startX="80" startY="198" endX="880" endY="198">
+      <border color="rgba(224,231,240,1)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="80" topLeftY="208" width="60" height="40">
+      <content textType="body" fontSize="28" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="204" width="460" height="34">
+      <content textType="body" fontSize="22" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Client Expectations</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="236" width="520" height="24">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>Three things the InnoV8 website must achieve</p>
+      </content>
+    </shape>
+    <line startX="80" startY="278" endX="880" endY="278">
+      <border color="rgba(224,231,240,1)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="80" topLeftY="288" width="60" height="40">
+      <content textType="body" fontSize="28" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="284" width="460" height="34">
+      <content textType="body" fontSize="22" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Target Audience</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="316" width="520" height="24">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>Who the website serves and how the design appeals to them</p>
+      </content>
+    </shape>
+    <line startX="80" startY="358" endX="880" endY="358">
+      <border color="rgba(224,231,240,1)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="80" topLeftY="368" width="60" height="40">
+      <content textType="body" fontSize="28" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>04</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="364" width="460" height="34">
+      <content textType="body" fontSize="22" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Competition Analysis</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="396" width="520" height="24">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>Three competitor websites with strengths and weaknesses</p>
+      </content>
+    </shape>
+    <line startX="80" startY="438" endX="880" endY="438">
+      <border color="rgba(224,231,240,1)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="80" topLeftY="448" width="60" height="40">
+      <content textType="body" fontSize="28" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>05</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="444" width="460" height="34">
+      <content textType="body" fontSize="22" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Design Proposal</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="150" topLeftY="476" width="520" height="24">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>Color scheme, page layout, typography and the sample page</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>Here is our agenda for today. We will start by introducing the InnoV8 client and their business.</p>
+      <p>Then we will present the three client expectations and the target audience for the website.</p>
+      <p>After that, we will share our analysis of three competitor websites, and finally present our complete design proposal including color, layout, typography and the sample page layout.</p>
+    </content>
+  </note>
+</slide>

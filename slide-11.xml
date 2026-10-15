@@ -1,0 +1,49 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="linear-gradient(135deg,rgba(7,31,61,1) 0%,rgba(9,51,98,1) 100%)"/>
+    </fill>
+  </style>
+  <data>
+    <img src="KBF5bWoRjoEqz6xp0jVcR4dlnKb" topLeftX="80" topLeftY="56" width="48" height="54"/>
+    <shape type="text" topLeftX="140" topLeftY="58" width="300" height="50">
+      <content textType="body" fontSize="28" fontFamily="Montserrat" bold="true" color="rgba(255,255,255,1)" wrap="false">
+        <p>InnoV8</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="80" topLeftY="210" width="800" height="80">
+      <content textType="title" fontSize="48" fontFamily="Montserrat" bold="true" color="rgba(255,255,255,1)" wrap="false">
+        <p>Thank You</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="296" width="800" height="44">
+      <content textType="body" fontSize="22" fontFamily="Montserrat" color="rgba(32,224,224,1)" wrap="false">
+        <p>Let's activate team potential together</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="80" topLeftY="360" width="800" height="30">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(226,232,240,1)" wrap="false">
+        <p>Questions and feedback are welcome.</p>
+      </content>
+    </shape>
+
+    <line startX="80" startY="440" endX="880" endY="440">
+      <border color="rgba(255,255,255,0.25)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="80" topLeftY="460" width="800" height="30">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(148,163,184,1)" wrap="false">
+        <p>Group 10 | BlueFish Media Design | Web Design Assignment 1 (TSNI 2022)</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>Thank you for listening. To sum up, we designed a professional, trustworthy website for InnoV8 that clearly showcases its consulting services and turns visitors into leads.</p>
+      <p>The design uses the InnoV8 brand colors, a jello layout and a clean two-font system.</p>
+      <p>We are happy to take any questions about the design decisions or the sample page itself.</p>
+    </content>
+  </note>
+</slide>

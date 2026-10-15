@@ -1,0 +1,85 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="rgb(244,247,251)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="44" width="560" height="56">
+      <content textType="title" fontSize="36" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Target Audience</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="96" width="640" height="30">
+      <content textType="body" fontSize="16" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>Decision-makers in corporations, businesses and charity organisations</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="80" topLeftY="150" width="130" height="32">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>Age</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="230" topLeftY="152" width="260" height="60">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.4" wrap="true">
+        <p>30-55 years old, typical of managers, HR and L&amp;D leaders.</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="80" topLeftY="222" width="130" height="32">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>Gender</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="230" topLeftY="224" width="260" height="60">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.4" wrap="true">
+        <p>Both male and female decision-makers in management positions.</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="80" topLeftY="294" width="130" height="32">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>Interests</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="230" topLeftY="296" width="260" height="90">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.4" wrap="true">
+        <p>Leadership development, team building, employee engagement, organisational culture and personal growth.</p>
+      </content>
+    </shape>
+
+    <line startX="520" startY="150" endX="520" endY="440">
+      <border color="rgba(224,231,240,1)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="560" topLeftY="150" width="180" height="32">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>Socioeconomic</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="560" topLeftY="186" width="330" height="90">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.4" wrap="true">
+        <p>Middle-to-high income professionals in management who hold training and consulting budgets and can authorise external services.</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="560" topLeftY="296" width="180" height="32">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>Needs</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="560" topLeftY="332" width="330" height="90">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.4" wrap="true">
+        <p>Solving problems such as low employee motivation, weak teamwork, and limited leadership capability.</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>Now let us look at who the website is designed for. The primary audience is decision-makers in corporations, small businesses and charity organisations.</p>
+      <p>They are typically aged 30 to 55, both male and female, in management or HR roles, with middle-to-high income and authority to spend on consulting.</p>
+      <p>They care about leadership, team building and employee engagement, and they need to solve problems like low motivation and weak teamwork.</p>
+    </content>
+  </note>
+</slide>

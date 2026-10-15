@@ -1,0 +1,80 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="rgb(244,247,251)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="44" width="560" height="56">
+      <content textType="title" fontSize="36" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Client Expectations</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="96" width="560" height="30">
+      <content textType="body" fontSize="16" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>Three things the InnoV8 website must achieve</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="80" topLeftY="150" width="90" height="44">
+      <content textType="body" fontSize="30" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="190" topLeftY="148" width="360" height="32">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Credibility and trust</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="190" topLeftY="182" width="640" height="44">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.4" wrap="true">
+        <p>A polished, professional design that positions InnoV8 as a credible consultancy partner for corporate and charity clients.</p>
+      </content>
+    </shape>
+    <line startX="80" startY="238" endX="880" endY="238">
+      <border color="rgba(224,231,240,1)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="80" topLeftY="256" width="90" height="44">
+      <content textType="body" fontSize="30" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="190" topLeftY="254" width="400" height="32">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Clear service showcase</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="190" topLeftY="288" width="640" height="44">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.4" wrap="true">
+        <p>Services presented clearly so corporate and charity visitors immediately understand what InnoV8 offers.</p>
+      </content>
+    </shape>
+    <line startX="80" startY="344" endX="880" endY="344">
+      <border color="rgba(224,231,240,1)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="80" topLeftY="362" width="90" height="44">
+      <content textType="body" fontSize="30" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="190" topLeftY="360" width="400" height="32">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Lead generation</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="190" topLeftY="394" width="640" height="60">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.4" wrap="true">
+        <p>Strong calls-to-action and visible contact options that convert visitors into booked consultations.</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>Now let us talk about the three expectations our client has for the website.</p>
+      <p>First, the website must build credibility and trust, so corporate and charity clients see InnoV8 as a professional consultancy.</p>
+      <p>Second, it must clearly showcase the services. And third, it must generate leads through clear calls-to-action that lead visitors to book a consultation.</p>
+    </content>
+  </note>
+</slide>

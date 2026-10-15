@@ -1,0 +1,889 @@
+<presentation id="WYhisjMeilkWuedE9BCc1vGInNc" xmlns="https://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>InnoV8 Website Design Proposal</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide id="pff">
+    <style>
+      <fill id="fff">
+        <fillColor color="linear-gradient(135deg,rgba(7, 31, 61, 1) 0%,rgba(9, 51, 98, 1) 100%)"/>
+      </fill>
+    </style>
+    <data>
+      <img id="bUS" src="B2pWbSJe2oieRwxcD4ycD4cynNE" width="440.00000000000006" height="364" topLeftX="500" topLeftY="70">
+        <crop type="rect" leftOffset="0.09302325581393234" rightOffset="0.0930232558138755" topOffset="0" bottomOffset="0"/>
+      </img>
+      <img id="bUe" src="KBF5bWoRjoEqz6xp0jVcR4dlnKb" width="53" height="60.00000000000001" topLeftX="80" topLeftY="55">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06372165754495285" bottomOffset="0.06372165754495285"/>
+      </img>
+      <shape width="400" height="90" topLeftX="80" topLeftY="150" type="text" id="bUI">
+        <content textType="title" fontSize="62" fontFamily="Montserrat" color="rgba(255, 255, 255, 1)" bold="true" wrap="false">
+          <p>InnoV8</p>
+        </content>
+      </shape>
+      <shape width="430" height="46" topLeftX="80" topLeftY="238" type="text" id="bUU">
+        <content textType="headline" fontSize="26" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>Website Design Proposal</p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="80" topLeftY="300" type="text" id="bUb">
+        <content fontSize="14" fontFamily="Inter" color="rgba(226, 232, 240, 1)" lineSpacing="multiple:1.4">
+          <p>Prepared by Group 10 | BlueFish Media Design</p>
+          <p>Web Design Assignment 1 (TSNI 2022)</p>
+        </content>
+      </shape>
+    </data>
+    <note id="bUv">
+      <content>
+        <p>Good morning everyone. We are Group 10 from BlueFish Media Design, and today we present our website design proposal for InnoV8.</p>
+        <p>InnoV8 is a consultancy that provides motivational strategies and personal development services to corporations and charities.</p>
+        <p>Over the next slides we will walk through the client expectations, target audience, competitor analysis and our proposed design.</p>
+      </content>
+    </note>
+  </slide>
+  <slide id="pfY">
+    <style>
+      <fill id="ffY">
+        <fillColor color="rgba(244, 247, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="500" height="56" topLeftX="80" topLeftY="44" type="text" id="bUw">
+        <content textType="title" fontSize="36" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Agenda</p>
+        </content>
+      </shape>
+      <line id="bUl" startX="80" startY="108" endX="880.0006249997559" endY="108">
+        <border color="rgba(33, 108, 231, 1)"/>
+      </line>
+      <shape width="60" height="40" topLeftX="80" topLeftY="128" type="text" id="bUN">
+        <content fontSize="28" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="460" height="34" topLeftX="150" topLeftY="124" type="text" id="bbb">
+        <content fontSize="22" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Client Overview</p>
+        </content>
+      </shape>
+      <shape width="520" height="24" topLeftX="150" topLeftY="156" type="text" id="bUE">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>Understanding the InnoV8 business and its consulting services</p>
+        </content>
+      </shape>
+      <line id="bUQ" startX="80" startY="198" endX="880.0006249997559" endY="198">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="60" height="40" topLeftX="80" topLeftY="208" type="text" id="bUr">
+        <content fontSize="28" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="460" height="34" topLeftX="150" topLeftY="204" type="text" id="bUR">
+        <content fontSize="22" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Client Expectations</p>
+        </content>
+      </shape>
+      <shape width="520" height="24" topLeftX="150" topLeftY="236" type="text" id="bUT">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>Three things the InnoV8 website must achieve</p>
+        </content>
+      </shape>
+      <line id="bbv" startX="80" startY="278" endX="880.0006249997559" endY="278">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="60" height="40" topLeftX="80" topLeftY="288" type="text" id="bUh">
+        <content fontSize="28" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="460" height="34" topLeftX="150" topLeftY="284" type="text" id="bUf">
+        <content fontSize="22" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Target Audience</p>
+        </content>
+      </shape>
+      <shape width="520" height="24" topLeftX="150" topLeftY="316" type="text" id="bUL">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>Who the website serves and how the design appeals to them</p>
+        </content>
+      </shape>
+      <line id="bUs" startX="80" startY="358" endX="880.0006249997559" endY="358">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="60" height="40" topLeftX="80" topLeftY="368" type="text" id="bbS">
+        <content fontSize="28" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="460" height="34" topLeftX="150" topLeftY="364" type="text" id="bUY">
+        <content fontSize="22" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Competition Analysis</p>
+        </content>
+      </shape>
+      <shape width="520" height="24" topLeftX="150" topLeftY="396" type="text" id="bUz">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>Three competitor websites with strengths and weaknesses</p>
+        </content>
+      </shape>
+      <line id="bUV" startX="80" startY="438" endX="880.0006249997559" endY="438">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="60" height="40" topLeftX="80" topLeftY="448" type="text" id="bUB">
+        <content fontSize="28" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="460" height="34" topLeftX="150" topLeftY="444" type="text" id="bbU">
+        <content fontSize="22" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Design Proposal</p>
+        </content>
+      </shape>
+      <shape width="520" height="24" topLeftX="150" topLeftY="476" type="text" id="bUo">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>Color scheme, page layout, typography and the sample page</p>
+        </content>
+      </shape>
+    </data>
+    <note id="bUj">
+      <content>
+        <p>Here is our agenda for today. We will start by introducing the InnoV8 client and their business.</p>
+        <p>Then we will present the three client expectations and the target audience for the website.</p>
+        <p>After that, we will share our analysis of three competitor websites, and finally present our complete design proposal including color, layout, typography and the sample page layout.</p>
+      </content>
+    </note>
+  </slide>
+  <slide id="pfE">
+    <style>
+      <fill id="ffE">
+        <fillColor color="rgba(244, 247, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="500" height="56" topLeftX="80" topLeftY="44" type="text" id="bUq">
+        <content textType="title" fontSize="36" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>About InnoV8</p>
+        </content>
+      </shape>
+      <shape width="520" height="30" topLeftX="80" topLeftY="96" type="text" id="bUm">
+        <content fontSize="16" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>The client and its business domain</p>
+        </content>
+      </shape>
+      <shape width="420" height="200" topLeftX="80" topLeftY="160" type="text" id="bUa">
+        <content fontSize="16" fontFamily="Inter" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.7">
+          <p>InnoV8 specialises in motivational strategies and personal development consultancy. The firm helps corporations, companies and charity organisations improve employee motivation, leadership capability and overall team effectiveness.</p>
+        </content>
+      </shape>
+      <line id="bUd" startX="540" startY="160" endX="540" endY="430.00185184550116">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="60" height="36" topLeftX="580" topLeftY="162" type="text" id="bUG">
+        <content fontSize="26" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="300" height="30" topLeftX="640" topLeftY="164" type="text" id="bUP">
+        <content fontSize="16" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Corporate and charity clients</p>
+        </content>
+      </shape>
+      <shape width="260" height="40" topLeftX="640" topLeftY="192" type="text" id="bUX">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" lineSpacing="multiple:1.4">
+          <p>Serving businesses and nonprofit organisations</p>
+        </content>
+      </shape>
+      <shape width="60" height="36" topLeftX="580" topLeftY="250" type="text" id="bUp">
+        <content fontSize="26" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="300" height="30" topLeftX="640" topLeftY="252" type="text" id="bUD">
+        <content fontSize="16" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Motivation and growth</p>
+        </content>
+      </shape>
+      <shape width="260" height="40" topLeftX="640" topLeftY="280" type="text" id="bUK">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" lineSpacing="multiple:1.4">
+          <p>Personal development and coaching services</p>
+        </content>
+      </shape>
+      <shape width="60" height="36" topLeftX="580" topLeftY="338" type="text" id="bUM">
+        <content fontSize="26" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="300" height="30" topLeftX="640" topLeftY="340" type="text" id="bUW">
+        <content fontSize="16" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Team effectiveness</p>
+        </content>
+      </shape>
+      <shape width="260" height="40" topLeftX="640" topLeftY="368" type="text" id="bUA">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" lineSpacing="multiple:1.4">
+          <p>Building stronger teams and workplaces</p>
+        </content>
+      </shape>
+    </data>
+    <note id="bUy">
+      <content>
+        <p>First, let us introduce our client. InnoV8 is a consultancy that provides motivational strategies and personal development services.</p>
+        <p>They work with three types of clients: corporations, companies and charity organisations.</p>
+        <p>Their services focus on employee motivation, leadership growth and team effectiveness, which is the core of the website we designed.</p>
+      </content>
+    </note>
+  </slide>
+  <slide id="pfh">
+    <style>
+      <fill id="ffh">
+        <fillColor color="rgba(244, 247, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="560" height="56" topLeftX="80" topLeftY="44" type="text" id="bUx">
+        <content textType="title" fontSize="36" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Client Expectations</p>
+        </content>
+      </shape>
+      <shape width="560" height="30" topLeftX="80" topLeftY="96" type="text" id="bUO">
+        <content fontSize="16" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>Three things the InnoV8 website must achieve</p>
+        </content>
+      </shape>
+      <shape width="90" height="44" topLeftX="80" topLeftY="150" type="text" id="bUJ">
+        <content fontSize="30" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="360" height="32" topLeftX="190" topLeftY="148" type="text" id="bUH">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Credibility and trust</p>
+        </content>
+      </shape>
+      <shape width="640" height="44" topLeftX="190" topLeftY="182" type="text" id="bUi">
+        <content fontSize="14" fontFamily="Inter" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.4">
+          <p>A polished, professional design that positions InnoV8 as a credible consultancy partner for corporate and charity clients.</p>
+        </content>
+      </shape>
+      <line id="bUt" startX="80" startY="238" endX="880.0006249997559" endY="238">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="90" height="44" topLeftX="80" topLeftY="256" type="text" id="bUc">
+        <content fontSize="30" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="400" height="32" topLeftX="190" topLeftY="254" type="text" id="bUg">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Clear service showcase</p>
+        </content>
+      </shape>
+      <shape width="640" height="44" topLeftX="190" topLeftY="288" type="text" id="bUk">
+        <content fontSize="14" fontFamily="Inter" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.4">
+          <p>Services presented clearly so corporate and charity visitors immediately understand what InnoV8 offers.</p>
+        </content>
+      </shape>
+      <line id="bUn" startX="80" startY="344" endX="880.0006249997559" endY="344">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="90" height="44" topLeftX="80" topLeftY="362" type="text" id="bUu">
+        <content fontSize="30" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="400" height="32" topLeftX="190" topLeftY="360" type="text" id="bUF">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Lead generation</p>
+        </content>
+      </shape>
+      <shape width="640" height="60" topLeftX="190" topLeftY="394" type="text" id="bUZ">
+        <content fontSize="14" fontFamily="Inter" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.4">
+          <p>Strong calls-to-action and visible contact options that convert visitors into booked consultations.</p>
+        </content>
+      </shape>
+    </data>
+    <note id="bUC">
+      <content>
+        <p>Now let us talk about the three expectations our client has for the website.</p>
+        <p>First, the website must build credibility and trust, so corporate and charity clients see InnoV8 as a professional consultancy.</p>
+        <p>Second, it must clearly showcase the services. And third, it must generate leads through clear calls-to-action that lead visitors to book a consultation.</p>
+      </content>
+    </note>
+  </slide>
+  <slide id="pfV">
+    <style>
+      <fill id="ffV">
+        <fillColor color="rgba(244, 247, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="560" height="56" topLeftX="80" topLeftY="44" type="text" id="bbm">
+        <content textType="title" fontSize="36" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Target Audience</p>
+        </content>
+      </shape>
+      <shape width="640" height="30" topLeftX="80" topLeftY="96" type="text" id="bba">
+        <content fontSize="16" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>Decision-makers in corporations, businesses and charity organisations</p>
+        </content>
+      </shape>
+      <shape width="130" height="32" topLeftX="80" topLeftY="150" type="text" id="bbA">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>Age</p>
+        </content>
+      </shape>
+      <shape width="260" height="60" topLeftX="230" topLeftY="152" type="text" id="bbM">
+        <content fontSize="14" fontFamily="Inter" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.4">
+          <p>30-55 years old, typical of managers, HR and L&amp;D leaders.</p>
+        </content>
+      </shape>
+      <shape width="130" height="32" topLeftX="80" topLeftY="222" type="text" id="bbI">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>Gender</p>
+        </content>
+      </shape>
+      <shape width="260" height="60" topLeftX="230" topLeftY="224" type="text" id="bbW">
+        <content fontSize="14" fontFamily="Inter" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.4">
+          <p>Both male and female decision-makers in management positions.</p>
+        </content>
+      </shape>
+      <shape width="130" height="32" topLeftX="80" topLeftY="294" type="text" id="bbK">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>Interests</p>
+        </content>
+      </shape>
+      <shape width="260" height="90" topLeftX="230" topLeftY="296" type="text" id="bbe">
+        <content fontSize="14" fontFamily="Inter" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.4">
+          <p>Leadership development, team building, employee engagement, organisational culture and personal growth.</p>
+        </content>
+      </shape>
+      <line id="bbD" startX="520" startY="150" endX="520" endY="440.0017241328058">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="180" height="32" topLeftX="560" topLeftY="150" type="text" id="bbd">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>Socioeconomic</p>
+        </content>
+      </shape>
+      <shape width="330" height="90" topLeftX="560" topLeftY="186" type="text" id="bbP">
+        <content fontSize="14" fontFamily="Inter" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.4">
+          <p>Middle-to-high income professionals in management who hold training and consulting budgets and can authorise external services.</p>
+        </content>
+      </shape>
+      <shape width="180" height="32" topLeftX="560" topLeftY="296" type="text" id="bbX">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>Needs</p>
+        </content>
+      </shape>
+      <shape width="330" height="90" topLeftX="560" topLeftY="332" type="text" id="bby">
+        <content fontSize="14" fontFamily="Inter" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.4">
+          <p>Solving problems such as low employee motivation, weak teamwork, and limited leadership capability.</p>
+        </content>
+      </shape>
+    </data>
+    <note id="bbq">
+      <content>
+        <p>Now let us look at who the website is designed for. The primary audience is decision-makers in corporations, small businesses and charity organisations.</p>
+        <p>They are typically aged 30 to 55, both male and female, in management or HR roles, with middle-to-high income and authority to spend on consulting.</p>
+        <p>They care about leadership, team building and employee engagement, and they need to solve problems like low motivation and weak teamwork.</p>
+      </content>
+    </note>
+  </slide>
+  <slide id="pfr">
+    <style>
+      <fill id="ffr">
+        <fillColor color="rgba(244, 247, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="600" height="56" topLeftX="80" topLeftY="44" type="text" id="bbu">
+        <content textType="title" fontSize="36" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Competition Analysis</p>
+        </content>
+      </shape>
+      <shape width="700" height="30" topLeftX="80" topLeftY="96" type="text" id="bbF">
+        <content fontSize="16" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>Three competitor websites, assessed with the Web Design Best Practices Checklist</p>
+        </content>
+      </shape>
+      <table id="bbZ" width="800" height="350" topLeftX="80" topLeftY="140">
+        <colgroup>
+          <col span="1" width="200"/>
+          <col span="2" width="300"/>
+        </colgroup>
+        <tr height="30">
+          <td id="bbt">
+            <fill>
+              <fillColor color="rgba(9, 51, 98, 1)"/>
+            </fill>
+            <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+              <p>Competitor</p>
+            </content>
+          </td>
+          <td id="bbc">
+            <fill>
+              <fillColor color="rgba(9, 51, 98, 1)"/>
+            </fill>
+            <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+              <p>Two Strengths</p>
+            </content>
+          </td>
+          <td id="bbg">
+            <fill>
+              <fillColor color="rgba(9, 51, 98, 1)"/>
+            </fill>
+            <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+              <p>Two Weaknesses</p>
+            </content>
+          </td>
+        </tr>
+        <tr height="107">
+          <td id="bbk">
+            <content fontSize="11" fontFamily="思源黑体" color="rgba(9, 51, 98, 1)" bold="true" textAlign="left">
+              <p>FranklinCovey</p>
+            </content>
+          </td>
+          <td id="bbp">
+            <content fontSize="10" fontFamily="思源黑体" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.25" textAlign="left">
+              <p>Clear, consistent navigation</p>
+              <p>Consistent branding and hierarchy</p>
+            </content>
+          </td>
+          <td id="bbJ">
+            <content fontSize="10" fontFamily="思源黑体" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.25" textAlign="left">
+              <p>Content-dense homepage</p>
+              <p>Heavy media slows loading</p>
+            </content>
+          </td>
+        </tr>
+        <tr height="107">
+          <td id="bbH">
+            <content fontSize="11" fontFamily="思源黑体" color="rgba(9, 51, 98, 1)" bold="true" textAlign="left">
+              <p>Dale Carnegie</p>
+            </content>
+          </td>
+          <td id="bbi">
+            <content fontSize="10" fontFamily="思源黑体" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.25" textAlign="left">
+              <p>Clear value proposition and CTA</p>
+              <p>Localised regional content</p>
+            </content>
+          </td>
+          <td id="bbG">
+            <content fontSize="10" fontFamily="思源黑体" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.25" textAlign="left">
+              <p>Complex dropdown navigation</p>
+              <p>Text-heavy pages reduce scanning</p>
+            </content>
+          </td>
+        </tr>
+        <tr height="106">
+          <td id="bbC">
+            <content fontSize="11" fontFamily="思源黑体" color="rgba(9, 51, 98, 1)" bold="true" textAlign="left">
+              <p>Gallup</p>
+            </content>
+          </td>
+          <td id="bbx">
+            <content fontSize="10" fontFamily="思源黑体" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.25" textAlign="left">
+              <p>Data-driven content builds trust</p>
+              <p>Clear typography and white space</p>
+            </content>
+          </td>
+          <td id="bbO">
+            <content fontSize="10" fontFamily="思源黑体" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.25" textAlign="left">
+              <p>Vast site with dense pages</p>
+              <p>Services hard to find</p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note id="bbn">
+      <content>
+        <p>We analysed three competitors in the consulting and training space: FranklinCovey, Dale Carnegie and Gallup.</p>
+        <p>For each site we noted two strengths and two weaknesses using the Web Design Best Practices Checklist.</p>
+        <p>Common weaknesses include dense pages and complex navigation. Our design avoids these problems with a clean layout and clear calls-to-action.</p>
+      </content>
+    </note>
+  </slide>
+  <slide id="pfN">
+    <style>
+      <fill id="ffN">
+        <fillColor color="rgba(244, 247, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="600" height="56" topLeftX="80" topLeftY="44" type="text" id="bbj">
+        <content textType="title" fontSize="36" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Color Scheme</p>
+        </content>
+      </shape>
+      <shape width="760" height="30" topLeftX="80" topLeftY="96" type="text" id="bbw">
+        <content fontSize="16" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>Derived from the InnoV8 brand and logo</p>
+        </content>
+      </shape>
+      <shape width="150" height="110" topLeftX="80" topLeftY="170" presetHandlers="10" type="rect" id="bbV">
+        <fill>
+          <fillColor color="rgba(9, 51, 98, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="150" height="26" topLeftX="80" topLeftY="292" type="text" id="bbN">
+        <content fontSize="13" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" textAlign="center" wrap="false">
+          <p>Primary Navy</p>
+        </content>
+      </shape>
+      <shape width="150" height="24" topLeftX="80" topLeftY="318" type="text" id="bbY">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" textAlign="center" wrap="false">
+          <p>#093362</p>
+        </content>
+      </shape>
+      <shape width="150" height="110" topLeftX="250" topLeftY="170" presetHandlers="10" type="rect" id="bbo">
+        <fill>
+          <fillColor color="rgba(33, 108, 231, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="150" height="26" topLeftX="250" topLeftY="292" type="text" id="bbz">
+        <content fontSize="13" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" textAlign="center" wrap="false">
+          <p>Accent Blue</p>
+        </content>
+      </shape>
+      <shape width="150" height="24" topLeftX="250" topLeftY="318" type="text" id="bbL">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" textAlign="center" wrap="false">
+          <p>#216CE7</p>
+        </content>
+      </shape>
+      <shape width="150" height="110" topLeftX="420" topLeftY="170" presetHandlers="10" type="rect" id="bbB">
+        <fill>
+          <fillColor color="rgba(32, 224, 224, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="150" height="26" topLeftX="420" topLeftY="292" type="text" id="bvU">
+        <content fontSize="13" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" textAlign="center" wrap="false">
+          <p>Highlight Teal</p>
+        </content>
+      </shape>
+      <shape width="150" height="24" topLeftX="420" topLeftY="318" type="text" id="bbf">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" textAlign="center" wrap="false">
+          <p>#20E0E0</p>
+        </content>
+      </shape>
+      <shape width="150" height="110" topLeftX="590" topLeftY="170" presetHandlers="10" type="rect" id="bbR">
+        <fill>
+          <fillColor color="rgba(244, 247, 251, 1)"/>
+        </fill>
+        <border color="rgba(224, 231, 240, 1)"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="150" height="26" topLeftX="590" topLeftY="292" type="text" id="bbs">
+        <content fontSize="13" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" textAlign="center" wrap="false">
+          <p>Light Background</p>
+        </content>
+      </shape>
+      <shape width="150" height="24" topLeftX="590" topLeftY="318" type="text" id="bbh">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" textAlign="center" wrap="false">
+          <p>#F4F7FB</p>
+        </content>
+      </shape>
+      <shape width="150" height="110" topLeftX="760" topLeftY="170" presetHandlers="10" type="rect" id="bbQ">
+        <fill>
+          <fillColor color="rgba(51, 65, 92, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="150" height="26" topLeftX="760" topLeftY="292" type="text" id="bbr">
+        <content fontSize="13" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" textAlign="center" wrap="false">
+          <p>Body Text</p>
+        </content>
+      </shape>
+      <shape width="150" height="24" topLeftX="760" topLeftY="318" type="text" id="bbl">
+        <content fontSize="12" fontFamily="Inter" color="rgba(120, 135, 160, 1)" textAlign="center" wrap="false">
+          <p>#33415C</p>
+        </content>
+      </shape>
+      <shape width="800" height="90" topLeftX="80" topLeftY="386" type="text" id="bbT">
+        <content fontSize="14" fontFamily="Inter" color="rgba(51, 65, 92, 1)">
+          <p>Deep navy conveys authority and professionalism, accent blue powers the calls-to-action, and teal adds a fresh, energetic highlight that reflects growth.</p>
+        </content>
+      </shape>
+    </data>
+    <note id="bbE">
+      <content>
+        <p>Our color scheme is derived directly from the InnoV8 brand and logo.</p>
+        <p>Deep navy is the primary color, used for the header and main banner. Accent blue is reserved for call-to-action buttons, and the bright teal highlights numbers and key accents.</p>
+        <p>A light background and dark gray body text keep the pages readable, which matches the professional tone expected by corporate and charity clients.</p>
+      </content>
+    </note>
+  </slide>
+  <slide id="pfk">
+    <style>
+      <fill id="ffk">
+        <fillColor color="rgba(244, 247, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="600" height="56" topLeftX="80" topLeftY="44" type="text" id="bvP">
+        <content textType="title" fontSize="36" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Page Layout</p>
+        </content>
+      </shape>
+      <shape width="700" height="30" topLeftX="80" topLeftY="96" type="text" id="bva">
+        <content fontSize="16" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>Jello layout — fixed-width content, centered with fluid side margins</p>
+        </content>
+      </shape>
+      <shape width="420" height="44" topLeftX="80" topLeftY="150" presetHandlers="0" type="rect" id="bvy">
+        <fill>
+          <fillColor color="rgba(9, 51, 98, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="420" height="22" topLeftX="80" topLeftY="162" type="text" id="bve">
+        <content fontSize="12" fontFamily="Inter" color="rgba(255, 255, 255, 1)" textAlign="center" wrap="false">
+          <p>Header (full width)</p>
+        </content>
+      </shape>
+      <shape width="280" height="150" topLeftX="150" topLeftY="214" presetHandlers="0" type="rect" id="bvX">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <border color="rgba(33, 108, 231, 1)"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="280" height="44" topLeftX="150" topLeftY="258" type="text" id="bvd">
+        <content fontSize="13" fontFamily="Inter" color="rgba(9, 51, 98, 1)" textAlign="center">
+          <p>Content</p>
+        </content>
+      </shape>
+      <shape width="280" height="40" topLeftX="150" topLeftY="300" type="text" id="bvI">
+        <content fontSize="11" fontFamily="Inter" color="rgba(120, 135, 160, 1)" textAlign="center">
+          <p>Fixed max width, centered</p>
+        </content>
+      </shape>
+      <shape width="50" height="150" topLeftX="80" topLeftY="214" presetHandlers="0" type="rect" id="bvD">
+        <fill>
+          <fillColor color="rgba(224, 231, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="50" height="150" topLeftX="450" topLeftY="214" presetHandlers="0" type="rect" id="bvK">
+        <fill>
+          <fillColor color="rgba(224, 231, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="50" height="22" topLeftX="80" topLeftY="374" type="text" id="bvA">
+        <content fontSize="10" fontFamily="Inter" color="rgba(120, 135, 160, 1)" textAlign="center" wrap="false">
+          <p>margin</p>
+        </content>
+      </shape>
+      <shape width="50" height="22" topLeftX="450" topLeftY="374" type="text" id="bvb">
+        <content fontSize="10" fontFamily="Inter" color="rgba(120, 135, 160, 1)" textAlign="center" wrap="false">
+          <p>margin</p>
+        </content>
+      </shape>
+      <line id="bvv" startX="560" startY="150" endX="560" endY="430.0017857085915">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="300" height="34" topLeftX="600" topLeftY="152" type="text" id="bvm">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Why Jello?</p>
+        </content>
+      </shape>
+      <shape width="300" height="180" topLeftX="600" topLeftY="194" type="text" id="bvW">
+        <content fontSize="13" fontFamily="Inter" color="rgba(51, 65, 92, 1)">
+          <p>Content keeps a comfortable reading width on large screens.</p>
+          <p>Side margins grow with the viewport, so the page never looks stretched.</p>
+          <p>Matches the desktop-first design of our sample page.</p>
+        </content>
+      </shape>
+    </data>
+    <note id="bvS">
+      <content>
+        <p>For the page layout we chose the jello layout, as required by the assignment.</p>
+        <p>In a jello layout, the content area has a fixed maximum width and is centered, while the margins on both sides expand and contract with the screen size.</p>
+        <p>We implemented this with a maximum width of 900 pixels and margin auto centering, which keeps text readable and consistent across screen sizes.</p>
+      </content>
+    </note>
+  </slide>
+  <slide id="pfw">
+    <style>
+      <fill id="ffw">
+        <fillColor color="rgba(244, 247, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="600" height="56" topLeftX="80" topLeftY="44" type="text" id="bvx">
+        <content textType="title" fontSize="36" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Typography</p>
+        </content>
+      </shape>
+      <shape width="700" height="30" topLeftX="80" topLeftY="96" type="text" id="bvM">
+        <content fontSize="16" fontFamily="Inter" color="rgba(120, 135, 160, 1)" wrap="false">
+          <p>Montserrat for headings, Inter for body text</p>
+        </content>
+      </shape>
+      <shape width="90" height="36" topLeftX="80" topLeftY="150" type="text" id="bvn">
+        <content fontSize="26" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="320" height="30" topLeftX="160" topLeftY="150" type="text" id="bvH">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Montserrat</p>
+        </content>
+      </shape>
+      <shape width="360" height="60" topLeftX="160" topLeftY="182" type="text" id="bvq">
+        <content fontSize="13" fontFamily="Inter" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.4">
+          <p>Used for headings, titles and the logo wordmark. A geometric sans-serif with a strong, professional presence.</p>
+        </content>
+      </shape>
+      <line id="bvC" startX="80" startY="256" endX="880.0006249997559" endY="256">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="90" height="36" topLeftX="80" topLeftY="270" type="text" id="bvc">
+        <content fontSize="26" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="320" height="30" topLeftX="160" topLeftY="270" type="text" id="bvg">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Inter</p>
+        </content>
+      </shape>
+      <shape width="360" height="60" topLeftX="160" topLeftY="302" type="text" id="bvG">
+        <content fontSize="13" fontFamily="Inter" color="rgba(51, 65, 92, 1)" lineSpacing="multiple:1.4">
+          <p>Used for paragraphs, navigation links and small labels. Crisp, open and highly readable on screens.</p>
+        </content>
+      </shape>
+      <line id="bvJ" startX="540" startY="150" endX="540" endY="430.0017857085915">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="320" height="50" topLeftX="580" topLeftY="150" type="text" id="bvu">
+        <content fontSize="38" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>InnoV8</p>
+        </content>
+      </shape>
+      <shape width="320" height="30" topLeftX="580" topLeftY="210" type="text" id="bvF">
+        <content fontSize="20" fontFamily="Montserrat" color="rgba(33, 108, 231, 1)" wrap="false">
+          <p>Website Design</p>
+        </content>
+      </shape>
+      <shape width="320" height="80" topLeftX="580" topLeftY="250" type="text" id="bvp">
+        <content fontSize="14" fontFamily="Inter" color="rgba(51, 65, 92, 1)">
+          <p>Activating team potential and driving organisational growth — a sample of the Inter body text on screen.</p>
+        </content>
+      </shape>
+    </data>
+    <note id="bvt">
+      <content>
+        <p>For typography we chose a two-font system.</p>
+        <p>Montserrat is used for all headings and the logo wordmark. It is a geometric sans-serif that gives the brand a strong, professional look.</p>
+        <p>Inter is used for paragraphs, navigation and labels. It is crisp and highly readable on screens, which keeps the content comfortable to read.</p>
+      </content>
+    </note>
+  </slide>
+  <slide id="pfd">
+    <style>
+      <fill id="ffd">
+        <fillColor color="rgba(244, 247, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="600" height="56" topLeftX="80" topLeftY="44" type="text" id="bvh">
+        <content textType="title" fontSize="36" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>Sample Page Layout</p>
+        </content>
+      </shape>
+      <img id="bvo" src="WYKJbfQHtoQYOrxSciOcbgugnGh" width="219.99999999999997" height="430" topLeftX="80" topLeftY="110">
+        <crop type="rect" leftOffset="0.0800000000000125" rightOffset="0.07999999999998408" topOffset="0" bottomOffset="-5.684341886080802e-14"/>
+      </img>
+      <line id="bvj" startX="340" startY="110" endX="340.00000000000006" endY="520.0012195103815">
+        <border color="rgba(224, 231, 240, 1)" width="1"/>
+      </line>
+      <shape width="480" height="36" topLeftX="380" topLeftY="120" type="text" id="bvO">
+        <content fontSize="24" fontFamily="Montserrat" color="rgba(9, 51, 98, 1)" bold="true" wrap="false">
+          <p>The finished page</p>
+        </content>
+      </shape>
+      <shape width="480" height="110" topLeftX="380" topLeftY="166" type="text" id="bvi">
+        <content fontSize="14" fontFamily="Inter" color="rgba(51, 65, 92, 1)">
+          <p>Our merged sample page combines the navy header and banner, four service cards, a trust section and a footer — all wrapped in a 900-pixel jello layout.</p>
+        </content>
+      </shape>
+      <shape width="180" height="28" topLeftX="380" topLeftY="300" type="text" id="bvk">
+        <content fontSize="13" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" bold="true" wrap="false">
+          <p>Website file</p>
+        </content>
+      </shape>
+      <shape width="480" height="30" topLeftX="380" topLeftY="330" type="text" id="bvE">
+        <content fontSize="13" fontFamily="Roboto Mono" color="rgba(9, 51, 98, 1)" wrap="false">
+          <p>index.html + above.css + work.css</p>
+        </content>
+      </shape>
+      <shape width="480" height="60" topLeftX="380" topLeftY="360" type="text" id="bvY">
+        <content fontSize="13" fontFamily="Inter" color="rgba(120, 135, 160, 1)" lineSpacing="multiple:1.4">
+          <p>Delivered as a local file with this deck, tested in Google Chrome at 1280px width.</p>
+        </content>
+      </shape>
+    </data>
+    <note id="bvZ">
+      <content>
+        <p>This is the sample page layout we built for InnoV8. The screenshot shows the finished homepage rendered in Google Chrome.</p>
+        <p>On the left you can see the full page: the navy header and banner we designed, the four service cards, the trust section and the footer.</p>
+        <p>The website file index.html, together with its style sheets, is delivered with this deck and tested at a desktop width of 1280 pixels.</p>
+      </content>
+    </note>
+  </slide>
+  <slide id="pfZ">
+    <style>
+      <fill id="ffZ">
+        <fillColor color="linear-gradient(135deg,rgba(7, 31, 61, 1) 0%,rgba(9, 51, 98, 1) 100%)"/>
+      </fill>
+    </style>
+    <data>
+      <img id="bvw" src="KBF5bWoRjoEqz6xp0jVcR4dlnKb" width="48" height="54" topLeftX="80" topLeftY="56.00000000000001">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.22752150117279513" bottomOffset="0.22752150117278802"/>
+      </img>
+      <shape width="300" height="50" topLeftX="140" topLeftY="58" type="text" id="bvL">
+        <content fontSize="28" fontFamily="Montserrat" color="rgba(255, 255, 255, 1)" bold="true" wrap="false">
+          <p>InnoV8</p>
+        </content>
+      </shape>
+      <shape width="800" height="80" topLeftX="80" topLeftY="210" type="text" id="bvl">
+        <content textType="title" fontSize="48" fontFamily="Montserrat" color="rgba(255, 255, 255, 1)" bold="true" wrap="false">
+          <p>Thank You</p>
+        </content>
+      </shape>
+      <shape width="800" height="44" topLeftX="80" topLeftY="296" type="text" id="bvQ">
+        <content fontSize="22" fontFamily="Montserrat" color="rgba(32, 224, 224, 1)" wrap="false">
+          <p>Let&apos;s activate team potential together</p>
+        </content>
+      </shape>
+      <shape width="800" height="30" topLeftX="80" topLeftY="360" type="text" id="bvz">
+        <content fontSize="14" fontFamily="Inter" color="rgba(226, 232, 240, 1)" wrap="false">
+          <p>Questions and feedback are welcome.</p>
+        </content>
+      </shape>
+      <line id="bvr" startX="80" startY="440" endX="880.0006249997559" endY="440">
+        <border color="rgba(255, 255, 255, 0.25)" width="1"/>
+      </line>
+      <shape width="800" height="30" topLeftX="80" topLeftY="460" type="text" id="bvV">
+        <content fontSize="12" fontFamily="Inter" color="rgba(148, 163, 184, 1)" wrap="false">
+          <p>Group 10 | BlueFish Media Design | Web Design Assignment 1 (TSNI 2022)</p>
+        </content>
+      </shape>
+    </data>
+    <note id="bvf">
+      <content>
+        <p>Thank you for listening. To sum up, we designed a professional, trustworthy website for InnoV8 that clearly showcases its consulting services and turns visitors into leads.</p>
+        <p>The design uses the InnoV8 brand colors, a jello layout and a clean two-font system.</p>
+        <p>We are happy to take any questions about the design decisions or the sample page itself.</p>
+      </content>
+    </note>
+  </slide>
+</presentation>

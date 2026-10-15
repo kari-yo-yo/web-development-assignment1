@@ -1,0 +1,81 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="rgb(244,247,251)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="44" width="600" height="56">
+      <content textType="title" fontSize="36" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Typography</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="96" width="700" height="30">
+      <content textType="body" fontSize="16" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>Montserrat for headings, Inter for body text</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="80" topLeftY="150" width="90" height="36">
+      <content textType="body" fontSize="26" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="150" width="320" height="30">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Montserrat</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="182" width="360" height="60">
+      <content textType="body" fontSize="13" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.4" wrap="true">
+        <p>Used for headings, titles and the logo wordmark. A geometric sans-serif with a strong, professional presence.</p>
+      </content>
+    </shape>
+    <line startX="80" startY="256" endX="880" endY="256">
+      <border color="rgba(224,231,240,1)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="80" topLeftY="270" width="90" height="36">
+      <content textType="body" fontSize="26" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="270" width="320" height="30">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Inter</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="302" width="360" height="60">
+      <content textType="body" fontSize="13" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.4" wrap="true">
+        <p>Used for paragraphs, navigation links and small labels. Crisp, open and highly readable on screens.</p>
+      </content>
+    </shape>
+
+    <line startX="540" startY="150" endX="540" endY="430">
+      <border color="rgba(224,231,240,1)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="580" topLeftY="150" width="320" height="50">
+      <content textType="body" fontSize="38" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>InnoV8</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="580" topLeftY="210" width="320" height="30">
+      <content textType="body" fontSize="20" fontFamily="Montserrat" color="rgba(33,108,231,1)" wrap="false">
+        <p>Website Design</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="580" topLeftY="250" width="320" height="80">
+      <content textType="body" fontSize="14" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.5">
+        <p>Activating team potential and driving organisational growth — a sample of the Inter body text on screen.</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>For typography we chose a two-font system.</p>
+      <p>Montserrat is used for all headings and the logo wordmark. It is a geometric sans-serif that gives the brand a strong, professional look.</p>
+      <p>Inter is used for paragraphs, navigation and labels. It is crisp and highly readable on screens, which keeps the content comfortable to read.</p>
+    </content>
+  </note>
+</slide>

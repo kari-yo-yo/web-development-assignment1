@@ -1,0 +1,84 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="rgb(244,247,251)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="44" width="500" height="56">
+      <content textType="title" fontSize="36" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>About InnoV8</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="96" width="520" height="30">
+      <content textType="body" fontSize="16" fontFamily="Inter" color="rgba(120,135,160,1)" wrap="false">
+        <p>The client and its business domain</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="80" topLeftY="160" width="420" height="200">
+      <content textType="body" fontSize="16" fontFamily="Inter" color="rgba(51,65,92,1)" lineSpacing="multiple:1.7">
+        <p>InnoV8 specialises in motivational strategies and personal development consultancy. The firm helps corporations, companies and charity organisations improve employee motivation, leadership capability and overall team effectiveness.</p>
+      </content>
+    </shape>
+
+    <line startX="540" startY="160" endX="540" endY="430">
+      <border color="rgba(224,231,240,1)" width="1"/>
+    </line>
+
+    <shape type="text" topLeftX="580" topLeftY="162" width="60" height="36">
+      <content textType="body" fontSize="26" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="640" topLeftY="164" width="300" height="30">
+      <content textType="body" fontSize="16" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Corporate and charity clients</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="640" topLeftY="192" width="260" height="40">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" lineSpacing="multiple:1.4">
+        <p>Serving businesses and nonprofit organisations</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="580" topLeftY="250" width="60" height="36">
+      <content textType="body" fontSize="26" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="640" topLeftY="252" width="300" height="30">
+      <content textType="body" fontSize="16" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Motivation and growth</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="640" topLeftY="280" width="260" height="40">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" lineSpacing="multiple:1.4">
+        <p>Personal development and coaching services</p>
+      </content>
+    </shape>
+
+    <shape type="text" topLeftX="580" topLeftY="338" width="60" height="36">
+      <content textType="body" fontSize="26" fontFamily="Montserrat" bold="true" color="rgba(32,224,224,1)" wrap="false">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="640" topLeftY="340" width="300" height="30">
+      <content textType="body" fontSize="16" fontFamily="Montserrat" bold="true" color="rgba(9,51,98,1)" wrap="false">
+        <p>Team effectiveness</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="640" topLeftY="368" width="260" height="40">
+      <content textType="body" fontSize="12" fontFamily="Inter" color="rgba(120,135,160,1)" lineSpacing="multiple:1.4">
+        <p>Building stronger teams and workplaces</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>First, let us introduce our client. InnoV8 is a consultancy that provides motivational strategies and personal development services.</p>
+      <p>They work with three types of clients: corporations, companies and charity organisations.</p>
+      <p>Their services focus on employee motivation, leadership growth and team effectiveness, which is the core of the website we designed.</p>
+    </content>
+  </note>
+</slide>
